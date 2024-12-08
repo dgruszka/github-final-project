@@ -1,5 +1,5 @@
 # **<ins>GITHUB FINAL PROJECT</ins>**
-## Final project submission for **IBM Coursera Course: _Getting Started with GitHub_**
+## Final project for submission to **IBM Coursera Course: _Getting Started with GitHub_**
 
 ### A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
